@@ -1,0 +1,586 @@
+{
+  "Patrick van Aanholt": {
+    "nome": "Patrick van Aanholt",
+    "historico": [
+      {
+        "ano": "2009",
+        "clube": "Chelsea",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2010",
+        "clube": "Chelsea",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2011",
+        "clube": "Chelsea",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2012",
+        "clube": "Chelsea",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2013",
+        "clube": "Chelsea",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2014",
+        "clube": "Chelsea",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2009",
+        "clube": "Coventry City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2010",
+        "clube": "Coventry City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2010",
+        "clube": "Newcastle United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2011",
+        "clube": "Leicester City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2011",
+        "clube": "Wigan Athletic",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2012",
+        "clube": "Vitesse",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2013",
+        "clube": "Vitesse",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2014",
+        "clube": "Vitesse",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2014",
+        "clube": "Sunderland",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2015",
+        "clube": "Sunderland",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2016",
+        "clube": "Sunderland",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2017",
+        "clube": "Sunderland",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2017",
+        "clube": "Crystal Palace",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2018",
+        "clube": "Crystal Palace",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "Crystal Palace",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2020",
+        "clube": "Crystal Palace",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "Crystal Palace",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "Galatasaray",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2022",
+        "clube": "Galatasaray",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "Galatasaray",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "Galatasaray",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "PSV Eindhoven",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "PSV Eindhoven",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "Sparta Rotterdam",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2025",
+        "clube": "Sparta Rotterdam",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2005",
+        "clube": "Netherlands U16",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2006",
+        "clube": "Netherlands U16",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2006",
+        "clube": "Netherlands U17",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2007",
+        "clube": "Netherlands U17",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2007",
+        "clube": "Netherlands U18",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2008",
+        "clube": "Netherlands U18",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2008",
+        "clube": "Netherlands U19",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2009",
+        "clube": "Netherlands U19",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2010",
+        "clube": "Netherlands U20",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2010",
+        "clube": "Netherlands U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2011",
+        "clube": "Netherlands U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2012",
+        "clube": "Netherlands U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2013",
+        "clube": "Netherlands U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2013",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2014",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2015",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2016",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2017",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2018",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2020",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "Netherlands",
+        "tipo": "clube"
+      }
+    ],
+    "total_anos": 53
+  },
+  "Max Aarons": {
+    "nome": "Max Aarons",
+    "historico": [
+      {
+        "ano": "2018",
+        "clube": "Norwich City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "Norwich City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2020",
+        "clube": "Norwich City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "Norwich City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2022",
+        "clube": "Norwich City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "Norwich City",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "AFC Bournemouth",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "AFC Bournemouth",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2025",
+        "clube": "AFC Bournemouth",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2025",
+        "clube": "Valencia",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2018",
+        "clube": "England U19",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "England U19",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "England U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2020",
+        "clube": "England U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "England U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2022",
+        "clube": "England U21",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "England U21",
+        "tipo": "clube"
+      }
+    ],
+    "total_anos": 17
+  },
+  "Brenden Aaronson": {
+    "nome": "Brenden Aaronson",
+    "historico": [
+      {
+        "ano": "2017",
+        "clube": "Bethlehem Steel",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2018",
+        "clube": "Bethlehem Steel",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "Philadelphia Union",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2020",
+        "clube": "Philadelphia Union",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "Red Bull Salzburg",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2022",
+        "clube": "Red Bull Salzburg",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2022",
+        "clube": "Leeds United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "Leeds United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "Leeds United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2025",
+        "clube": "Leeds United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "Union Berlin",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "Union Berlin",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2015",
+        "clube": "United States U15",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "United States U23",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2020",
+        "clube": "United States",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "United States",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2022",
+        "clube": "United States",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "United States",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "United States",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2025",
+        "clube": "United States",
+        "tipo": "clube"
+      }
+    ],
+    "total_anos": 20
+  },
+  "Aaron Cresswell": {
+    "nome": "Aaron Cresswell",
+    "historico": [
+      {
+        "ano": "2008",
+        "clube": "Tranmere Rovers",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2009",
+        "clube": "Tranmere Rovers",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2010",
+        "clube": "Tranmere Rovers",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2011",
+        "clube": "Tranmere Rovers",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2011",
+        "clube": "Ipswich Town",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2012",
+        "clube": "Ipswich Town",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2013",
+        "clube": "Ipswich Town",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2014",
+        "clube": "Ipswich Town",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2014",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2015",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2016",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2017",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2018",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2019",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2020",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2021",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2022",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2023",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2024",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2025",
+        "clube": "West Ham United",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2016",
+        "clube": "England",
+        "tipo": "clube"
+      },
+      {
+        "ano": "2017",
+        "clube": "England",
+        "tipo": "clube"
+      }
+    ],
+    "total_anos": 22
+  }
+}

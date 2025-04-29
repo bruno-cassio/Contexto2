@@ -1,0 +1,82 @@
+{
+  "Patrick van Aanholt": {
+    "nome": "Patrick van Aanholt",
+    "historico": {
+      "2009": "Netherlands U19",
+      "2010": "Netherlands U21",
+      "2011": "Netherlands U21",
+      "2012": "Netherlands U21",
+      "2013": "Netherlands",
+      "2014": "Netherlands",
+      "2015": "Netherlands",
+      "2016": "Netherlands",
+      "2017": "Netherlands",
+      "2018": "Netherlands",
+      "2019": "Netherlands",
+      "2020": "Netherlands",
+      "2021": "Netherlands",
+      "2022": "Galatasaray",
+      "2023": "PSV Eindhoven",
+      "2024": "Sparta Rotterdam",
+      "2025": "Sparta Rotterdam",
+      "2006": "Netherlands U17",
+      "2007": "Netherlands U17",
+      "2008": "Netherlands U19"
+    },
+    "total_anos": 20
+  },
+  "Max Aarons": {
+    "nome": "Max Aarons",
+    "historico": {
+      "2018": "England U19",
+      "2019": "England U21",
+      "2020": "England U21",
+      "2021": "England U21",
+      "2022": "England U21",
+      "2023": "England U21",
+      "2024": "AFC Bournemouth",
+      "2025": "Valencia"
+    },
+    "total_anos": 8
+  },
+  "Brenden Aaronson": {
+    "nome": "Brenden Aaronson",
+    "historico": {
+      "2017": "Bethlehem Steel",
+      "2018": "Bethlehem Steel",
+      "2019": "United States U23",
+      "2020": "United States",
+      "2021": "United States",
+      "2022": "United States",
+      "2023": "United States",
+      "2024": "United States",
+      "2025": "United States",
+      "2015": "United States U15"
+    },
+    "total_anos": 10
+  },
+  "Aaron Cresswell": {
+    "nome": "Aaron Cresswell",
+    "historico": {
+      "2008": "Tranmere Rovers",
+      "2009": "Tranmere Rovers",
+      "2010": "Tranmere Rovers",
+      "2011": "Ipswich Town",
+      "2012": "Ipswich Town",
+      "2013": "Ipswich Town",
+      "2014": "West Ham United",
+      "2015": "West Ham United",
+      "2016": "England",
+      "2017": "England",
+      "2018": "West Ham United",
+      "2019": "West Ham United",
+      "2020": "West Ham United",
+      "2021": "West Ham United",
+      "2022": "West Ham United",
+      "2023": "West Ham United",
+      "2024": "West Ham United",
+      "2025": "West Ham United"
+    },
+    "total_anos": 18
+  }
+}
